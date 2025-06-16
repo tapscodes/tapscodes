@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-I'm a college student who enjoys messing around with a bunch of code.
-I’m currently working on a variety of different projects both personally and through my college education.
+This is my space for personal projects.
 For more info, check out [tapscodes.github.io](https://tapscodes.github.io).
